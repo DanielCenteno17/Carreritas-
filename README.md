@@ -1,2 +1,2 @@
-# Carreritas-
-No cala el codigo
+# MovimientoSincronoDelaPelota
+Movimiento de la pelota de forma síncrona
